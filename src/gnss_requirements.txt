@@ -1,6 +1,0 @@
-numpy>=1.24
-pandas>=2.0
-matplotlib>=3.7
-# For real RINEX file parsing (optional):
-# georinex>=1.16
-# hatanaka>=2.8   # Hatanaka decompression for .crx files
